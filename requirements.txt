@@ -1,0 +1,15 @@
+# Core scientific computing
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Data handling
+pandas>=2.0
+
+# Optional: for ML pipeline (analysis/05_optimization.py uses scipy only)
+# scikit-learn>=1.3
+# xgboost>=2.0
+# lightgbm>=4.0
+
+# Development / testing
+pytest>=7.0
